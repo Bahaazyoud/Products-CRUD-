@@ -1,0 +1,18 @@
+body {
+    padding: 50px;
+    background-color: rgb(240, 240, 240);
+}
+
+table {
+    border: 1px solid black;
+    border-radius: 8px;
+    background-color: rgb(195, 195, 193);
+}
+
+.thumb_image {
+    width: 50px;
+}
+
+.update-image {
+    width: 50px;
+}
